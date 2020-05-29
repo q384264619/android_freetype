@@ -1,0 +1,2 @@
+# android_freetype
+在android中使用CMakeLists.txt编译生成静态库或So动态库
