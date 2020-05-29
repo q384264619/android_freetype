@@ -1,5 +1,7 @@
 # 项目说明
     在android中使用CMakeLists.txt编译生成静态库或So动态库
+
+[官方教程地址][https://www.freetype.org/freetype2/docs/tutorial/step1.html]
     
 # 工程中已经写好了Android.mk与CMakeLists.txt
     你只用将该工程文件全部拷到你的工程的main下的cpp目录中，然后在gradle中配制下:
